@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="AulasExseed" />
+          <option value="AulasExseed" />
+          <option value="AulasExseed" />
+          <option value="AulasExseed" />
+          <option value="AulasExseed" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="com.google.guava:guava:25.0-jre" />
+          <option value="com.squareup.okhttp3:okhttp:3.10.0" />
+          <option value="com.squareup.okio:okio:1.14.1" />
+          <option value="commons-codec:commons-codec:1.10" />
+          <option value="org.apache.httpcomponents:httpclient:4.5.5" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
